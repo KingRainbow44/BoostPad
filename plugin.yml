@@ -1,5 +1,5 @@
 name: BoostPad
-main: BrokenItZAndrei100\BPad\Main
+main: BoxOfDevs\BPad\Main
 api:
 - 2.0.0
 - 3.0.0
